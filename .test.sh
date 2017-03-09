@@ -1,0 +1,1 @@
+echo WARNING et INFO et ERROR
